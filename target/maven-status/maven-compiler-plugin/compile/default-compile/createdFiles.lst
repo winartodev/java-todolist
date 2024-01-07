@@ -1,0 +1,8 @@
+winarto/todolist/App.class
+winarto/todolist/view/TodoListViewImpl.class
+winarto/todolist/service/TodoListService.class
+winarto/todolist/error/Errors.class
+winarto/todolist/data/TodoList.class
+winarto/todolist/repository/TodoListRepository.class
+winarto/todolist/repository/TodoListRepositoryImpl.class
+winarto/todolist/service/TodoListServiceImpl.class
